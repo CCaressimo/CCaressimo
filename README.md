@@ -1,11 +1,11 @@
-### Hey, my name is Christopher Caressimo. I'm a musician-turned-full Stack Developer. <img src="https://i.imgur.com/pNPqLXW.jpg" width="200px" style="border-radius:15px">
+### Hey, my name is Christopher Caressimo. I'm a musician-turned-full Stack Developer. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCaressimo&theme=cobalt&show_icons=true)
 
 
 <!--
 **CCaressimo/CCaressimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://i.imgur.com/pNPqLXW.jpg" width="200px" style="border-radius:15px">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
