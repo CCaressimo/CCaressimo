@@ -1,5 +1,5 @@
-### Hey, my name is Christopher Caressimo. I'm a musician-turned-full Stack Developer.
-<img src="https://i.imgur.com/pNPqLXW.jpg" width="100px">
+### Hey, my name is Christopher Caressimo. I'm a musician-turned-full Stack Developer. <img src="https://i.imgur.com/pNPqLXW.jpg" width="200px">
+
 
 
 <!--
