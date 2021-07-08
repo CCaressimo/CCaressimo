@@ -1,5 +1,6 @@
 ### Hey, my name is Christopher Caressimo. I'm a musician-turned-full Stack Developer. <img src="https://i.imgur.com/pNPqLXW.jpg" width="200px">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCaressimo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
