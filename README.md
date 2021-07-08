@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, my name is Christopher Caressimo. I'm a musician-turned-full Stack Developer.
+<img src="https://i.imgur.com/pNPqLXW.jpg" width="30px">
+
 
 <!--
 **CCaressimo/CCaressimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
